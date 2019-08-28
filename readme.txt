@@ -31,7 +31,7 @@ Clone buildozer
 
 git clone https://github.com/kivy/buildozer.git
 cd buildozer
-sudo python setup.py install
+sudo python3 setup.py install
 
 install additional dependencies
 sudo apt-get install build-essentials libltdl-dev libffi-dev
