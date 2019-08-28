@@ -34,4 +34,4 @@ cd buildozer
 sudo python3 setup.py install
 
 install additional dependencies
-sudo apt-get install build-essential libltdl-dev libffi-dev openjdk-8-jdk
+sudo apt-get install build-essential libltdl-dev libffi-dev openjdk-8-jdk zip unzip
