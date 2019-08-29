@@ -1,3 +1,6 @@
+Install Cython
+pip3 install cython
+
 Install kivy
 
 sudo add-apt-repository ppa:kivy-team/kivy
