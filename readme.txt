@@ -1,3 +1,7 @@
+sudo apt update                 #ONLY IF NECESSARY
+sudo apt install python3-pip    #ONLY IF NECESSARY
+
+
 Install Cython
 pip3 install cython
 
