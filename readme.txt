@@ -1,13 +1,12 @@
 sudo apt update                 #ONLY IF NECESSARY
 sudo apt install python3-pip    #ONLY IF NECESSARY
 
-
 Install Cython
-pip3 install cython
+pip3 install cython             #CHECK COMPATIBILITY WITH KIVY https://kivy.org/doc/stable/installation/deps-cython.html
 
 Install kivy
 
-sudo add-apt-repository ppa:kivy-team/kivy
+sudo add-apt-repository ppa:kivy-team/kivy-daily
 sudo apt-get update
 sudo apt-get install python3-kivy
 
